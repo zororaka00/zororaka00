@@ -30,6 +30,7 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Blockchain Dev**  
 ![Truffle](https://img.shields.io/badge/Truffle-3E2D63?style=flat&logo=truffle&logoColor=white)
