@@ -1,4 +1,4 @@
-## 🚀 Blockchain Enthusiast & AI Explorer  
+## 🚀 Blockchain Enthusiast & AI Enthusiast  
 Crafting the future through decentralized apps and intelligent systems. Passionate about building scalable backends, smart contracts, and creative bots with cutting-edge tech.
 
 ---
