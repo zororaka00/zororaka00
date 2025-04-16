@@ -35,7 +35,7 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 **Blockchain Dev**  
 ![Truffle](https://img.shields.io/badge/Truffle-3E2D63?style=flat&logo=truffle&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFCC00?style=flat&logo=ethereum&logoColor=black)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-E0E0E0?style=flat&logo=ethereum&logoColor=black)
+![Smart Contract](https://img.shields.io/badge/Smart%20Contracts-E0E0E0?style=flat&logo=ethereum&logoColor=black)
 
 **Databases & Storage**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -64,7 +64,6 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 
 **Domain**  
 ![AI](https://img.shields.io/badge/AI-1A1A1A?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-333333?style=flat&logo=googlechrome&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20Dev-3DDC84?style=flat&logo=android&logoColor=white)
