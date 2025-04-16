@@ -11,6 +11,7 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
@@ -27,6 +28,8 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 **Blockchain Dev**  
 ![Truffle](https://img.shields.io/badge/Truffle-3E2D63?style=flat&logo=truffle&logoColor=white)
@@ -46,7 +49,7 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Surge.sh](https://img.shields.io/badge/Surge.sh-222222?style=flat&logo=surge&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode&logoColor=white)
-![Contabo](https://img.shields.io/badge/Contabo-008ECC?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+![Contabo](https://img.shields.io/badge/Contabo-008ECC?style=flat&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -58,13 +61,13 @@ Crafting the future through decentralized apps and intelligent systems. Passiona
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-**Domains**  
+**Domain**  
 ![AI](https://img.shields.io/badge/AI-1A1A1A?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web%20Development-333333?style=flat&logo=googlechrome&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20Dev-3DDC84?style=flat&logo=android&logoColor=white)
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-0088CC?style=flat&logo=telegram&logoColor=white)
-![Mini Apps](https://img.shields.io/badge/Telegram%20MiniApp-0088CC?style=flat&logo=telegram&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bots-0088CC?style=flat&logo=telegram&logoColor=white)
+![Mini App Telegram](https://img.shields.io/badge/Telegram%20MiniApp-0088CC?style=flat&logo=telegram&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=python&logoColor=white)
-![Trading Bots](https://img.shields.io/badge/Trading%20Bots-FF9900?style=flat&logo=binance&logoColor=white)
+![Trading Bot](https://img.shields.io/badge/Trading%20Bots-FF9900?style=flat&logo=binance&logoColor=white)
